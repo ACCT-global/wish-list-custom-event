@@ -1,6 +1,0 @@
-{
-  "admin.app.wishlist": {
-    "component": "WishlistAdmin",
-    "path": "/admin/app/wishlist"
-  }
-}

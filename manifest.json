@@ -1,17 +1,13 @@
 {
-  "name": "wish-list",
-  "vendor": "vtex",
-  "version": "1.15.0",
+  "name": "wish-list-custom-event",
+  "vendor": "acctglobal",
+  "version": "0.1.0",
   "title": "Wish List",
   "description": "The Wishlist app is designed for B2C. It adds a heart icon to the Shelfs and Product Page, so the user can add it to the Wishlist, you can list all the Wishlisted items at /wishlist",
   "categories": [],
   "settingsSchema": {},
   "builders": {
     "docs": "0.x",
-    "dotnet": "2.x",
-    "graphql": "1.x",
-    "admin": "0.x",
-    "messages": "1.x",
     "react": "3.x",
     "store": "0.x"
   },
@@ -41,6 +37,9 @@
     "vtex.my-account": "1.x",
     "vtex.my-account-commons": "1.x",
     "vtex.pixel-manager": "1.x"
+  },
+  "peerDependencies": {
+    "vtex.wish-list": "1.x"
   },
   "policies": [
     {

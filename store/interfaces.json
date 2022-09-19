@@ -1,22 +1,5 @@
 {
-  "add-to-list-btn": {
+  "add-to-list-btn-custom": {
     "component": "AddProductBtn"
-  },
-  "store.wishlist": {},
-  "list-context.wishlist": {
-    "allowed": ["product-summary", "wishlist-empty-list"],
-    "composition": "children",
-    "component": "ProductSummaryWishlist"
-  },
-  "my-account-page.wishlist-page": {
-    "component": "MyAcccountWishlistPage",
-    "composition": "children"
-  },
-  "my-account-link.wishlist-link": {
-    "component": "MyAccountWishlistLink"
-  },
-  "wishlist-empty-list": {
-    "component": "WishlistEmpty",
-    "composition": "children"
   }
 }
