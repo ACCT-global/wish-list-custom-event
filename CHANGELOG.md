@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Added 
+
+- [SP-631](https://acctglobal.atlassian.net/browse/SP-631) - Added custom and stylized wishlist component.
+
 ## [0.1.0] - 2022-09-19
 
 ### Added
